@@ -25,13 +25,3 @@ When I'm not architecting systems, I'm training (fitness enthusiast), learning l
 ---
 
 *Building the future, one commit at a time.*
-
-## Beyond Code
-
-When I'm not architecting systems, I'm training (fitness enthusiast), learning languages (fluent English 🇬🇧, learning Italian 🇮🇹), or exploring new tech. I believe in discipline, continuous learning, and building with purpose.
-
-**Let's connect**: Always open to discussing architecture, AI, cloud infrastructure, or collaborating on meaningful projects.
-
----
-
-*Building the future, one commit at a time.*
